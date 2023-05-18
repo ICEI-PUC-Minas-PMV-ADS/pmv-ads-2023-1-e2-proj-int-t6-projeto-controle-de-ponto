@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p+RDG58GZwTYDk0SbeeF2pT4CAXvxa3gVjDq6cc1bZUkLbVXnOMQPeDgFr0CZxkEDjEIVdhCzggiKCQ0IcLKQQ==",
+  "dgSpecHash": "GhlEV7uxVKE8ZiI6R7lwWh256L/Sxuc8Lp74uYiuDHoOgx+mShNhS/J7uA8hF5cD1ndgyb0cLlJ0ovaMEAfp0g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Apontei2\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
+  "projectFilePath": "C:\\Projetos\\Apontei\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
