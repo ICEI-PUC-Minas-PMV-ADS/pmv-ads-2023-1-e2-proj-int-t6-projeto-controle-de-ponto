@@ -7612,19 +7612,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rocha\\.nuget\\packages\\": {}
+    "C:\\Users\\Carol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rocha\\Desktop\\apontei\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
+      "projectUniqueName": "C:\\Apontei\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
       "projectName": "sistema-de-ponto",
-      "projectPath": "C:\\Users\\rocha\\Desktop\\apontei\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
-      "packagesPath": "C:\\Users\\rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rocha\\Desktop\\apontei\\src\\sistema-de-ponto\\obj\\",
+      "projectPath": "C:\\Apontei\\src\\sistema-de-ponto\\sistema-de-ponto.csproj",
+      "packagesPath": "C:\\Users\\Carol\\.nuget\\packages\\",
+      "outputPath": "C:\\Apontei\\src\\sistema-de-ponto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Carol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7688,6 +7688,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
