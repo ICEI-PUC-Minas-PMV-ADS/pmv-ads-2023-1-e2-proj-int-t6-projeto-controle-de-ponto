@@ -20,6 +20,9 @@ namespace sistema_de_ponto.Controllers
 
         public IActionResult Index()
         {
+            //dbapontei.database.windows.net
+            //db-admin
+            //Apontei@adm
             return View();
         }
 
